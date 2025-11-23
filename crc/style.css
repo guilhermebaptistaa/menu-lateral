@@ -36,7 +36,8 @@ body{
     font-size: 12px;
 }
 
-.user img.foto{
+ .side-bar .user img.foto{
+    
     width: 90px;
     overflow: hidden;
     aspect-ratio: 1 / 1;
