@@ -38,13 +38,10 @@ body{
 
 .user img{
     width: 90px;
-    height: 90px;
     aspect-ratio: 1 / 1;
-   
     object-fit: cover;
     border-radius: 50%;
     
-    padding: 0 10px;
 }
 
 
@@ -91,7 +88,7 @@ ul li a{
     padding: 10px;
     border-radius: 10px;
     color: var(--texto);
-    transition: .5s;
+    
 }
 
 ul li a:hover {
